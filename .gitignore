@@ -1,7 +1,7 @@
 sieci-zlozone-env/
 */.DS_Store
-*/.AppleDouble
-*/.LSOverride
+*/data/
+*/inne/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
