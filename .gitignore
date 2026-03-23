@@ -1,5 +1,7 @@
 sieci-zlozone-env/
 other/
+*.tab
+*.json
 .DS_Store
 */data/
 */inne/
