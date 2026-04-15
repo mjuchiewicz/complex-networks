@@ -5,6 +5,9 @@ other/
 .DS_Store
 */data/
 */inne/
+*.adjlist
+*.zip
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
